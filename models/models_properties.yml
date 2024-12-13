@@ -1,0 +1,7 @@
+models:
+  - name: "first_dbt_model"
+    config: 
+      materialized: "view"
+  - name: "emp_10"
+    config:
+      materialized: "table"
