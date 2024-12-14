@@ -5,3 +5,11 @@ models:
   - name: "emp_10"
     config:
       materialized: "table"
+sources:
+  - name: "hari"
+    database: "dbt_practice"
+    schema: "raw_schema"
+
+    tables:
+      - name: "emp"
+      - name: "dept"
