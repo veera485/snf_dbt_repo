@@ -1,7 +1,7 @@
-s_no,country_Code, country_name
-1, us, united states
-2, ca, canada
-3, uk, united kingdom
-4, fr, france
-5, de, germany
-6, in, india
+s_no|country_Code| country_name
+1| us| united states
+2| ca| canada
+3| uk| united kingdom
+4| fr| france
+5| de| germany
+6| in| india
